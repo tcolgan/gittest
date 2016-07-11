@@ -1,4 +1,9 @@
+// this is a test MERGED A & B
+<<<<<<< .mine
 // this is a test - BRANCH A
+=======
+// this is a test BRANCH B
+>>>>>>> .theirs
 
 #include <stdio.h>
 #include <string.h>
