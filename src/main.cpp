@@ -1,4 +1,4 @@
-// this is a test - MAIN BRANCH
+// this is a test - BRANCH A
 
 #include <stdio.h>
 #include <string.h>
